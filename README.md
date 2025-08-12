@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 - 🎓 Studying **Computer Science** at the University of Lagos.  
-- 💡 Passionate about **Machine Learning, AI, and Software Development**.  
+- 💡 Passionate about **Software Development and Machine Learning**.  
 - 🛠 Currently working on projects like **Student Wellness Apps**, **Book Rental Platforms**, and **Personal Finance Trackers**.  
 - 🌱 Learning from MIT, Harvard, and Coursera — building toward 10,000+ hours of focused AI & ML practice.  
 - 🎨 I also enjoy **art, chess, and exploring research in math & computer science**.
