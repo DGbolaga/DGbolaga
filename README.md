@@ -1,25 +1,29 @@
-<!-- Profile Header -->
-<h1 align="center">Gbolaga Daramola</h1>
-<h3 align="center">Building systems, solving problems, learning in public</h3>
 
----
+<div align="center">
 
-### Who I am
+# Gbolaga Daramola
 
-CS student at University of Lagos. I write code every day - Python, C++, Rust, React, Next.js. I think in algorithms, build with intention, and treat consistency like a skill.
+Building systems. Solving problems. Learning in public.
 
-I'm putting in the hours: MIT and Harvard courses, LeetCode daily, real projects that force me to learn. The goal isn't just 10,000 hours - it's 10,000 hours that matter.
+</div>
 
-Currently reading *Deep Work*. Recently finished *Ultralearning*. I believe focus is a competitive advantage.
+<br>
 
-When I'm not coding: chess, art, math rabbit holes.
+CS @ UNILAG
 
----
++ Daily Drivers: Rust, Python, C++, JS.
 
-### What I work with
++ The Grind: Building projects that force me to learn, heavily supplemented by MIT/Harvard OCW.
+
++ Philosophy: Focus is a competitive advantage. (Read: Ultralearning, Deep Work)
+
++ AFK: Chess, Art, Math.
+
+<br>
+
+What I work with
 
 <p>
-<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -27,23 +31,25 @@ When I'm not coding: chess, art, math rabbit holes.
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
----
+<br>
 
-### What I'm focused on right now
+What I'm focused on right now
 
-**Systems programming** - Learning Rust. Building low-level tools and understanding how things work under the hood.  
-**Full-stack development** - Frontend with React and Next.js. Backend with FastAPI and Node.js. End-to-end projects.  
-**Algorithms & problem solving** - Daily LeetCode practice in Python and C++. Non-negotiable.  
-**Deliberate practice** - Small improvements, compounded daily.
++ Systems programming           - Rust, low-level tools, understanding how things work
++ Backend development           - Python/FastAPI, APIs, server-side logic
++ Algo & problem solving        - Daily LeetCode (Python, C++).   Non-negotiable.
++ Deliberate practice           - Small improvements, compounded daily.
 
----
 
-### Let's connect
+<br>
 
+On a similar path? Let's connect.
 <p>
 <a href="https://www.linkedin.com/in/omogbolaga-daramola-5016012ab/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/DGbolaga"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://leetcode.com/u/Gbolaga_Daramola/"><img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
+
