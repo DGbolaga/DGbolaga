@@ -1,9 +1,9 @@
 
 <div align="center">
-
-# Gbolaga Daramola
-
+  
 Building systems. Solving problems. Learning in public.
+# 
+
 
 </div>
 
@@ -39,8 +39,11 @@ What I work with
 What I'm focused on right now
 
 + Systems programming           - Rust, low-level tools, understanding how things work
+  
 + Backend development           - Python/FastAPI, APIs, server-side logic
+  
 + Algo & problem solving        - Daily LeetCode (Python, C++).   Non-negotiable.
+  
 + Deliberate practice           - Small improvements, compounded daily.
 
 
